@@ -15,7 +15,7 @@ website:
   navbar:
     right:
       - text: "Home"
-        href: index.html
+        href: _site/index.html
   page-footer:
     left: "© Copyright 2026 Rafael Lopes. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
 format:
