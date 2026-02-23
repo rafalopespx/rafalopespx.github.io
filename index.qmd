@@ -21,9 +21,10 @@ comments: false
 
 ## Bio
 
-I’m an computational and statistical epidemiologist at Yale University, working on climate change impact into infectious diseases.
-By training I'm either a physicist (specializing in mathematical and statistical modelling for disease transmission and spread) or environmental and climate epidemiologist; professionally, I've worked
-as a data scientist and vendor.
+I’m a computational epidemiologist at Yale University, working on climate change impact into infectious diseases.
+By training I'm either a physicist (specializing in mathematical and statistical modelling for disease transmission and spread) or 
+environmental and climate epidemiologist; professionally, I've worked
+as a data scientist and barista. I like drawing [maps](south_ameria_cell_towers_no_borders_no_caption_no_title.png)!
 
 On this site I keep a list of [my CV](CV_Rafael_Lopes.pdf)
 
