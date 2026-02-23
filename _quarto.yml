@@ -1,7 +1,7 @@
 project:
   type: website
   resources:
-    - 'CV Rafael Lopes.pdf'
+    - 'CV_Rafael_Lopes.pdf'
 
 website:
   title: "Rafael Lopes"

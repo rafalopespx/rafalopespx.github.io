@@ -1,6 +1,6 @@
 ---
 title: "Rafael Lopes"
-image: yale_profile.jpeg
+image: yale_profile2.jpg
 about:
   template: trestles
   links:
@@ -14,7 +14,7 @@ about:
     - text: Email
       url: "mailto:lopes1313@gmail.com"
     - text: CV
-      url: "CV Rafael Lopes.pdf"
+      url: "CV_Rafael_Lopes.pdf"
 comments: false
 ---
 ::: {.column-page}
@@ -23,9 +23,9 @@ comments: false
 
 I’m an computational and statistical epidemiologist at Yale University, working on climate change impact into infectious diseases.
 By training I'm either a physicist (specializing in mathematical and statistical modelling for disease transmission and spread) or environmental and climate epidemiologist; professionally, I've worked
-as a data scientist and barista.
+as a data scientist and vendor.
 
-On this site I keep a list of [my CV]('CV Rafael Lopes.pdf')
+On this site I keep a list of [my CV](CV_Rafael_Lopes.pdf)
 
 <p></p>
 
