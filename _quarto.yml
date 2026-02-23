@@ -5,7 +5,7 @@ project:
 
 website:
   title: "Rafael Lopes"
-  site-url: https://rafalopespx.github.io/
+  site-url: rafalopespx.github.io/
   description: "Climate and Epidemics"
   open-graph:
     locale: en_US
