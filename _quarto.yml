@@ -5,13 +5,13 @@ project:
 
 website:
   title: "Rafael Lopes"
-  site-url: https://rafalopespx.github.io
+  site-url: https://rafalopespx.github.io/
   description: "Climate and Epidemics"
   open-graph:
     locale: en_US
   comments:
     utterances:
-      repo: rafalopespx/rafalopespx.github.io
+      repo: rafalopespx/rafalopespx.github.io/
   navbar:
     right:
       - text: "Home"
