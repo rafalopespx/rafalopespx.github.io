@@ -1,0 +1,40 @@
+---
+title: "Rafael Lopes"
+image: yale_profile.jpeg
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/rafael-lopes-px/"
+    - text: 🦋 Bluesky
+      url: "https://www.bsky.app/rafalpx"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/rafalopespx"
+    - text: Email
+      url: "mailto:lopes1313@gmail.com"
+    - text: CV
+      url: "CV Rafael Lopes.pdf"
+comments: false
+---
+::: {.column-page}
+
+## Bio
+
+I’m an computational and statistical epidemiologist at Yale University, working on climate change impact into infectious diseases.
+By training I'm either a physicist (specializing in mathematical and statistical modelling for disease transmission and spread) or environmental and climate epidemiologist; professionally, I've worked
+as a data scientist and barista.
+
+On this site I keep a list of [my CV]('CV Rafael Lopes.pdf')
+
+<p></p>
+
+## Selected Projects
+
+#### R Packages
+
+**[nowcaster](https://github.com/covid19br/nowcaster)** | Nowcasting to delay correction to epidemiological data.
+
+:::
+
+<link rel="me" href="https://www.bsky.app/rafalpx">

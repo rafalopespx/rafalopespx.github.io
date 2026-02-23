@@ -1,0 +1,24 @@
+project:
+  type: website
+  resources:
+    - 'CV Rafael Lopes.pdf'
+
+website:
+  title: "Rafael Lopes"
+  site-url: https://rafalopespx.github.io
+  description: "Climate and Epidemics"
+  open-graph:
+    locale: en_US
+  comments:
+    utterances:
+      repo: rafalopespx/rafalopespx.github.io
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+  page-footer:
+    left: "© Copyright 2026 Rafael Lopes. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+format:
+  html:
+    theme: [sandstone, _variables.scss]
+    css: styles.css
