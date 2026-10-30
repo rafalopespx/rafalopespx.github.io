@@ -17,7 +17,6 @@ about:
       url: "CV_Rafael_Lopes.pdf"
 comments: false
 ---
-::: {.column-page}
 
 ## Bio
 
@@ -35,7 +34,5 @@ On this site I keep a list of [my CV](CV_Rafael_Lopes.pdf)
 #### R Packages
 
 **[nowcaster](https://github.com/covid19br/nowcaster)** | Nowcasting to delay correction to epidemiological data.
-
-:::
 
 <link rel="me" href="https://www.bsky.app/rafalpx">
