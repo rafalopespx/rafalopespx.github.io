@@ -1,11 +1,12 @@
 project:
   type: website
+  output-dir: docs
   resources:
     - 'CV_Rafael_Lopes.pdf'
 
 website:
   title: "Rafael Lopes"
-  site-url: rafalopespx.github.io/
+  site-url: https://rafalopespx.github.io/
   description: "Climate and Epidemics"
   open-graph:
     locale: en_US
@@ -15,10 +16,10 @@ website:
   navbar:
     right:
       - text: "Home"
-        href: _site/index.html
+        href: index.html
   page-footer:
     left: "© Copyright 2026 Rafael Lopes. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
 format:
   html:
-    theme: [sandstone, _variables.scss]
+    theme: sandstone
     css: styles.css
