@@ -1,0 +1,149 @@
+# Publication list. Rendered by publications.md.
+# Fields:
+#   type    : preprint | article | abstract   (groups the list on the page)
+#   title   : paper title
+#   authors : author list as it should appear (keep the markers below)
+#   venue   : journal, preprint server, or conference, with volume/pages
+#   year    : optional; omit for preprints where the venue already gives the date
+#   doi     : optional; DOI without the https://doi.org/ prefix, e.g. "10.1000/xyz"
+# Markers: * first, co-first or senior author; ° corresponding author.
+# The page bolds every "Lopes R" in the author list.
+
+# ---------- Preprints and manuscripts under review ----------
+- type: preprint
+  title: "Variations in annual dengue intensities are explained by temperature anomalies"
+  authors: "Porzucek AJ, Lopes R*, Chew YT, Li K, Brady OJ, Warren JL, Carlson CJ, Weinberger DM, Grubaugh ND"
+  venue: "medRxiv; under review at Proceedings of the National Academy of Sciences"
+  year: 2025
+
+- type: preprint
+  title: "Frequent introductions and climate suitability drive increasing dengue risk in Florida"
+  authors: "Taylor-Salmon E, Chew YT, Lopes R*, Locksmith T, Kopp E, Vergara J, Davis A, Mitchell M, Colarusso P, Schmedes S, Mock V, Scott B, Zimler R, Vasquez C, Moreno M, Paul LM, Michael SF, Breban MI, Vogels CBF, Warren JL, Carlson CJ, Stanek D, Heberlein L, Hill V, Morrison A, Grubaugh ND"
+  venue: "medRxiv; under review at Nature Communications"
+  year: 2026
+
+- type: preprint
+  title: "Phylodynamic analysis reveals asymmetric and accelerating global spread of dengue virus"
+  authors: "Hill V, Dudas G, Ji X, Huits R, Hamer DH, Joshi HK, Porzucek AJ, Lopes R, Robertson H, Whittaker CF, et al."
+  venue: "bioRxiv, September 2026"
+
+- type: preprint
+  title: "Tracking two decades of global dengue virus lineage dynamics"
+  authors: "Good S, Porzucek AJ, Chew YT, Lopes R*, Rankin N, Carrington CVF, Ooi EE, Brito AF, Hill V, Grubaugh ND"
+  venue: "bioRxiv, October 2026"
+
+# ---------- Peer-reviewed articles ----------
+- type: article
+  title: "Evolutionary history of Jamestown Canyon virus reveals complex multi-vector ecology"
+  authors: "Bourgikos E, Dellicour S, Lemey P, Feriancek NM, Bransfield AB, Breban MI, Misencik MJ, Petruff TA, Shepard JJ, Andreadis TG, Anderson JF, Ngo KA, Maffei JG, Dupuis AP, Rich SM, Xu G, Sakolsky G, Price KJ, Metzger ML, Suchard MA, Lopes R, Gámbaro F, Carlson CJ, Baele G, Ciota AT, Vogels CBF, Hill V, Armstrong PM, Grubaugh ND"
+  venue: "Current Biology 36(9): 2343–2356"
+  year: 2026
+
+- type: article
+  title: "Quantifying the spatiotemporal dynamics of the first two epidemic waves of SARS-CoV-2 infections in the United States"
+  authors: "Lopes R*°, Lan Y, Chitwood MH, Klaassen F, Salomon JA, Menzies NA, Warren JL, Grubaugh ND, Cohen T, Swartwood NA"
+  venue: "PLOS Computational Biology 22(3): e1013983"
+  year: 2026
+
+- type: article
+  title: "National- and state-level SARS-CoV-2 immunity trends from January 2020 to December 2023: a mathematical modeling analysis"
+  authors: "Klaassen F, Swartwood NA, Chitwood MH, Lopes R, Haraguchi M, Salomon JA, Cohen T, Menzies NA"
+  venue: "Journal of Infectious Diseases 233(4): 714–724"
+  year: 2026
+
+- type: article
+  title: "Estimating the quality-adjusted life-year loss due to fatal and nonfatal COVID-19 outcomes across US states and counties, July 2020 to December 2022"
+  authors: "Mikdashi F, Murray-Watson RE, Lopes R, Bilinski A, Yaesoubi R"
+  venue: "MDM Policy & Practice 11(2): 23814683261461551"
+  year: 2026
+
+- type: article
+  title: "Large-scale genomic analysis of SARS-CoV-2 Omicron BA.5 emergence in the United States"
+  authors: "Pham K, Chaguza C, Lopes R, Cohen T, Taylor-Salmon E, Wilkinson M, Katebi V, Grubaugh ND, Hill V"
+  venue: "Emerging Infectious Diseases, supplemental issue: Advances in Pathogen Genomics for Infectious Disease Surveillance, Control and Prevention"
+  year: 2025
+
+- type: article
+  title: "Integrated analysis of the 2022 SARS-CoV-2 Omicron lineage replacement dynamics in Connecticut, US"
+  authors: "Chen NFG, Pham K, Chaguza C, Lopes R, Klaassen F, Kalinich CC, Yale SARS-CoV-2 Genomic Surveillance Initiative, Kerantzas N, Pandya S, Ferguson D, et al."
+  venue: "Viruses 17(7): 1020"
+  year: 2025
+
+- type: article
+  title: "Escalating combinations of enhanced infectivity and immune escape define SARS-CoV-2 Omicron lineage replacement"
+  authors: "Chen NFG, Pham K, Chaguza C, Lopes R, Klaassen F, Weinberger DM, Pitzer VE, Warren JL, Grubaugh ND, Hahn AM"
+  venue: "Viruses"
+  year: 2025
+
+- type: article
+  title: "On the verge: outbreak risk after two years of record-breaking dengue epidemics in Brazil"
+  authors: "Lopes R*°, Bastos LS"
+  venue: "The Lancet Regional Health – Americas 45"
+  year: 2025
+
+- type: article
+  title: "Combining genomic data and infection estimates to characterize the complex dynamics of SARS-CoV-2 Omicron variants in the United States"
+  authors: "Lopes R*°, Pham K, Klaassen F, Chitwood MH, Hahn AM, Redmond S, et al."
+  venue: "Cell Reports 43(7)"
+  year: 2024
+
+- type: article
+  title: "Ambient temperature and dengue hospitalization in Brazil: a 10-year period case time series analysis"
+  authors: "Lopes R*°, Basagaña X, Bastos LSL, Bozza FA, Ranzani OT"
+  venue: "Environmental Epidemiology 9(1): e360"
+  year: 2025
+
+- type: article
+  title: "Risk factors for long coronavirus disease 2019 (long COVID) among healthcare personnel, Brazil, 2020–2022"
+  authors: "Marra AR, Sampaio VS, Ozahata MC, Lopes R, Brito AF, Bragatte M, Kalil J, Miraglia JL, Malheiro DT, Guozhang Y, et al."
+  venue: "Infection Control & Hospital Epidemiology 44(12): 1972–1978"
+  year: 2023
+
+- type: article
+  title: "Ten quick tips for harnessing the power of ChatGPT in computational biology"
+  authors: "Lubiana T, Lopes R, Medeiros P, Silva JC, Goncalves ANA, Maracaja-Coutinho V, Nakaya HI"
+  venue: "PLoS Computational Biology 19(8): e1011319"
+  year: 2023
+
+- type: article
+  title: "Thinking out of the box: revisiting health surveillance based on medical records"
+  authors: "Sampaio VS, Lopes R, Ozahata MC, Nakaya HI, Sousa E, Araujo JD, Bragatte MAS, Brito AF, Grespan RMZ, Capuani MLD, et al."
+  venue: "Antimicrobial Stewardship & Healthcare Epidemiology 3(1): e185"
+  year: 2023
+
+- type: article
+  title: "Estimating the impact of implementation and timing of the COVID-19 vaccination program in Brazil: a counterfactual analysis"
+  authors: "Ferreira LS, Marquitti FMD, da Silva RLP, Borges ME, da Costa Gomes MF, Cruz OG, Kraenkel RA, Coutinho RM, Prado PI, Bastos LS"
+  venue: "The Lancet Regional Health – Americas 17"
+  year: 2023
+
+- type: article
+  title: "Area-level inequalities in COVID-19 outcomes in Brazil in 2020 and 2021: an analysis of 1,894,165 severe COVID-19 cases"
+  authors: "Boing AF, Boing AC, Veras MA, de Lacerda JT, da Silva RLP, Barbato PR, Fabrin C, Subramanian SV"
+  venue: "Preventive Medicine 164"
+  year: 2022
+
+- type: article
+  title: "Model-based estimation of transmissibility and reinfection of SARS-CoV-2 P.1 variant"
+  authors: "Coutinho RM, Marquitti FMD, Ferreira LS, Borges ME, da Silva RLP, Canton O, Portella TP, Poloni S, Franco C, Plucinski MM, Lessa FC"
+  venue: "Communications Medicine 1(1)"
+  year: 2022
+
+- type: article
+  title: "Assessing the best time interval between doses in a two-dose vaccination regimen to reduce the number of deaths in an ongoing epidemic of SARS-CoV-2"
+  authors: "Souto Ferreira L, Canton O, da Silva RLP, Poloni S, Sudbrack V, Borges ME, Franco C, Marquitti FMD, de Moraes JC, Veras MADSM, Kraenkel RA"
+  venue: "PLOS Computational Biology 18(3): e1009978"
+  year: 2022
+
+- type: article
+  title: "Brazil in the face of new SARS-CoV-2 variants: emergencies and challenges in public health"
+  authors: "Marquitti FMD, Coutinho RM, Ferreira LS, Borges ME, Portella TP, da Silva RLP, Canton O, Poloni S, Franco C, Coelho V, Barberia L"
+  venue: "Revista Brasileira de Epidemiologia 24"
+  year: 2021
+
+# ---------- Conference abstracts ----------
+- type: abstract
+  title: "Trends in United States long-COVID incidence and prevalence over 2020–2023: a Bayesian modeling analysis"
+  authors: "Swartwood NA, Klaassen F, Chitwood MH, Lopes R, Salomon JA, Cohen T, Menzies N"
+  venue: "Medical Decision Making 45(7) [Conference abstract]"
+  year: 2025
