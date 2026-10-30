@@ -1,0 +1,14 @@
+# Software and open-science projects. Rendered by software.md.
+# Fields: name, role, years, description, url (optional), repo (optional)
+
+- name: "nowcaster"
+  role: "Lead developer"
+  years: "2022–present"
+  description: "Open R package implementing Bayesian hierarchical correction for reporting delay in disease surveillance. Used by Brazil's Ministry of Health for dengue, chikungunya, Zika, COVID-19, and RSV."
+  url: "https://covid19br.github.io/nowcaster"
+
+- name: "Observatório COVID-19 BR"
+  role: "Contributor"
+  years: "2020–2022"
+  description: "Open modeling and data platform for the Brazilian COVID-19 response."
+  url: "https://covid19br.github.io"

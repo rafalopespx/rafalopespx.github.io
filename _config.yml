@@ -1,0 +1,13 @@
+theme: jekyll-theme-minimal
+title: Rafael Lopes's Page
+description: Computational epidemiologist working on climate-sensitive and infectious diseases
+show_downloads: True
+navigation:
+  - title: Home
+    url: /
+  - title: Publications
+    url: publications.html
+  - title: Software
+    url: software.html
+  - title: CV
+    url: assets/cv/Rafael_Lopes_CV.pdf
