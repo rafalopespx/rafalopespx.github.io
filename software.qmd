@@ -1,0 +1,15 @@
+---
+title: "Software"
+comments: false
+---
+
+Open-source tools I have developed or contributed to.
+
+- **[PortinariColors](https://rafalopespx.github.io/PortinariColors/index.html)** · Author and maintainer · Oct 2026–present ([CRAN](https://cran.r-project.org/web/packages/PortinariColors/index.html))\
+  Color palettes inspired by paintings of Candido Portinari held by the São Paulo Museum of Art (MASP) and by his Guerra (War) and Paz (Peace) panels at the United Nations Headquarters.
+
+- **[nowcaster](https://covid19br.github.io/nowcaster)** · Lead developer · 2022–present\
+  Open R package implementing Bayesian hierarchical correction for reporting delay in disease surveillance. Used by Brazil's Ministry of Health for dengue, chikungunya, Zika, COVID-19, and RSV.
+
+- **[Observatório COVID-19 BR](https://covid19br.github.io)** · Contributor · 2020–2022\
+  Open modeling and data platform for the Brazilian COVID-19 response.

@@ -17,6 +17,12 @@ website:
     right:
       - text: "Home"
         href: index.html
+      - text: "Publications"
+        href: publications.html
+      - text: "Software"
+        href: software.html
+      - text: "CV"
+        href: CV_Rafael_Lopes.pdf
   page-footer:
     left: "© Copyright 2026 Rafael Lopes. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
 format:

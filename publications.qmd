@@ -1,0 +1,104 @@
+---
+title: "Publications"
+comments: false
+---
+
+*\* first, co-first or senior author; ° corresponding author. Publications up to 2022 appear under the name R. L. P. da Silva.*
+
+## Preprints and manuscripts under review
+
+- **Variations in annual dengue intensities are explained by temperature anomalies**\
+  Porzucek AJ, **Lopes R**\*, Chew YT, Li K, Brady OJ, Warren JL, Carlson CJ, Weinberger DM, Grubaugh ND\
+  *medRxiv; under review at Proceedings of the National Academy of Sciences* (2025)
+
+- **Frequent introductions and climate suitability drive increasing dengue risk in Florida**\
+  Taylor-Salmon E, Chew YT, **Lopes R**\*, Locksmith T, Kopp E, Vergara J, Davis A, Mitchell M, Colarusso P, Schmedes S, Mock V, Scott B, Zimler R, Vasquez C, Moreno M, Paul LM, Michael SF, Breban MI, Vogels CBF, Warren JL, Carlson CJ, Stanek D, Heberlein L, Hill V, Morrison A, Grubaugh ND\
+  *medRxiv; under review at Nature Communications* (2026)
+
+- **Phylodynamic analysis reveals asymmetric and accelerating global spread of dengue virus**\
+  Hill V, Dudas G, Ji X, Huits R, Hamer DH, Joshi HK, Porzucek AJ, **Lopes R**, Robertson H, Whittaker CF, et al.\
+  *bioRxiv, September 2026*
+
+- **Tracking two decades of global dengue virus lineage dynamics**\
+  Good S, Porzucek AJ, Chew YT, **Lopes R**\*, Rankin N, Carrington CVF, Ooi EE, Brito AF, Hill V, Grubaugh ND\
+  *bioRxiv, October 2026*
+
+## Peer-reviewed articles
+
+- **Evolutionary history of Jamestown Canyon virus reveals complex multi-vector ecology**\
+  Bourgikos E, Dellicour S, Lemey P, Feriancek NM, Bransfield AB, Breban MI, Misencik MJ, Petruff TA, Shepard JJ, Andreadis TG, Anderson JF, Ngo KA, Maffei JG, Dupuis AP, Rich SM, Xu G, Sakolsky G, Price KJ, Metzger ML, Suchard MA, **Lopes R**, Gámbaro F, Carlson CJ, Baele G, Ciota AT, Vogels CBF, Hill V, Armstrong PM, Grubaugh ND\
+  *Current Biology 36(9): 2343–2356* (2026)
+
+- **Quantifying the spatiotemporal dynamics of the first two epidemic waves of SARS-CoV-2 infections in the United States**\
+  **Lopes R**\*°, Lan Y, Chitwood MH, Klaassen F, Salomon JA, Menzies NA, Warren JL, Grubaugh ND, Cohen T, Swartwood NA\
+  *PLOS Computational Biology 22(3): e1013983* (2026)
+
+- **National- and state-level SARS-CoV-2 immunity trends from January 2020 to December 2023: a mathematical modeling analysis**\
+  Klaassen F, Swartwood NA, Chitwood MH, **Lopes R**, Haraguchi M, Salomon JA, Cohen T, Menzies NA\
+  *Journal of Infectious Diseases 233(4): 714–724* (2026)
+
+- **Estimating the quality-adjusted life-year loss due to fatal and nonfatal COVID-19 outcomes across US states and counties, July 2020 to December 2022**\
+  Mikdashi F, Murray-Watson RE, **Lopes R**, Bilinski A, Yaesoubi R\
+  *MDM Policy & Practice 11(2): 23814683261461551* (2026)
+
+- **Large-scale genomic analysis of SARS-CoV-2 Omicron BA.5 emergence in the United States**\
+  Pham K, Chaguza C, **Lopes R**, Cohen T, Taylor-Salmon E, Wilkinson M, Katebi V, Grubaugh ND, Hill V\
+  *Emerging Infectious Diseases, supplemental issue: Advances in Pathogen Genomics for Infectious Disease Surveillance, Control and Prevention* (2025)
+
+- **Integrated analysis of the 2022 SARS-CoV-2 Omicron lineage replacement dynamics in Connecticut, US**\
+  Chen NFG, Pham K, Chaguza C, **Lopes R**, Klaassen F, Kalinich CC, Yale SARS-CoV-2 Genomic Surveillance Initiative, Kerantzas N, Pandya S, Ferguson D, et al.\
+  *Viruses 17(7): 1020* (2025)
+
+- **Escalating combinations of enhanced infectivity and immune escape define SARS-CoV-2 Omicron lineage replacement**\
+  Chen NFG, Pham K, Chaguza C, **Lopes R**, Klaassen F, Weinberger DM, Pitzer VE, Warren JL, Grubaugh ND, Hahn AM\
+  *Viruses* (2025)
+
+- **On the verge: outbreak risk after two years of record-breaking dengue epidemics in Brazil**\
+  **Lopes R**\*°, Bastos LS\
+  *The Lancet Regional Health – Americas 45* (2025)
+
+- **Combining genomic data and infection estimates to characterize the complex dynamics of SARS-CoV-2 Omicron variants in the United States**\
+  **Lopes R**\*°, Pham K, Klaassen F, Chitwood MH, Hahn AM, Redmond S, et al.\
+  *Cell Reports 43(7)* (2024)
+
+- **Ambient temperature and dengue hospitalization in Brazil: a 10-year period case time series analysis**\
+  **Lopes R**\*°, Basagaña X, Bastos LSL, Bozza FA, Ranzani OT\
+  *Environmental Epidemiology 9(1): e360* (2025)
+
+- **Risk factors for long coronavirus disease 2019 (long COVID) among healthcare personnel, Brazil, 2020–2022**\
+  Marra AR, Sampaio VS, Ozahata MC, **Lopes R**, Brito AF, Bragatte M, Kalil J, Miraglia JL, Malheiro DT, Guozhang Y, et al.\
+  *Infection Control & Hospital Epidemiology 44(12): 1972–1978* (2023)
+
+- **Ten quick tips for harnessing the power of ChatGPT in computational biology**\
+  Lubiana T, **Lopes R**, Medeiros P, Silva JC, Goncalves ANA, Maracaja-Coutinho V, Nakaya HI\
+  *PLoS Computational Biology 19(8): e1011319* (2023)
+
+- **Thinking out of the box: revisiting health surveillance based on medical records**\
+  Sampaio VS, **Lopes R**, Ozahata MC, Nakaya HI, Sousa E, Araujo JD, Bragatte MAS, Brito AF, Grespan RMZ, Capuani MLD, et al.\
+  *Antimicrobial Stewardship & Healthcare Epidemiology 3(1): e185* (2023)
+
+- **Estimating the impact of implementation and timing of the COVID-19 vaccination program in Brazil: a counterfactual analysis**\
+  Ferreira LS, Marquitti FMD, **da Silva RLP**, Borges ME, da Costa Gomes MF, Cruz OG, Kraenkel RA, Coutinho RM, Prado PI, Bastos LS\
+  *The Lancet Regional Health – Americas 17* (2023)
+
+- **Area-level inequalities in COVID-19 outcomes in Brazil in 2020 and 2021: an analysis of 1,894,165 severe COVID-19 cases**\
+  Boing AF, Boing AC, Veras MA, de Lacerda JT, **da Silva RLP**, Barbato PR, Fabrin C, Subramanian SV\
+  *Preventive Medicine 164* (2022)
+
+- **Model-based estimation of transmissibility and reinfection of SARS-CoV-2 P.1 variant**\
+  Coutinho RM, Marquitti FMD, Ferreira LS, Borges ME, **da Silva RLP**, Canton O, Portella TP, Poloni S, Franco C, Plucinski MM, Lessa FC\
+  *Communications Medicine 1(1)* (2022)
+
+- **Assessing the best time interval between doses in a two-dose vaccination regimen to reduce the number of deaths in an ongoing epidemic of SARS-CoV-2**\
+  Souto Ferreira L, Canton O, **da Silva RLP**, Poloni S, Sudbrack V, Borges ME, Franco C, Marquitti FMD, de Moraes JC, Veras MADSM, Kraenkel RA\
+  *PLOS Computational Biology 18(3): e1009978* (2022)
+
+- **Brazil in the face of new SARS-CoV-2 variants: emergencies and challenges in public health**\
+  Marquitti FMD, Coutinho RM, Ferreira LS, Borges ME, Portella TP, **da Silva RLP**, Canton O, Poloni S, Franco C, Coelho V, Barberia L\
+  *Revista Brasileira de Epidemiologia 24* (2021)
+
+## Conference abstracts
+
+- **Trends in United States long-COVID incidence and prevalence over 2020–2023: a Bayesian modeling analysis**\
+  Swartwood NA, Klaassen F, Chitwood MH, **Lopes R**, Salomon JA, Cohen T, Menzies N\
+  *Medical Decision Making 45(7) [Conference abstract]* (2025)
