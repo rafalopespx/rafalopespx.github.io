@@ -1,0 +1,8 @@
+---
+title: "Welcome"
+date: 2026-11-03
+description: "What this blog will cover."
+categories: [meta]
+---
+
+Welcome to my blog. I will use it for notes on my research in epidemic modelling, nowcasting, and climate attribution, and for updates on the R packages I maintain.

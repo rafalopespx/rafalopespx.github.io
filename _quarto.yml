@@ -21,6 +21,8 @@ website:
         href: publications.html
       - text: "Software"
         href: software.html
+      - text: "Blog"
+        href: blog/index.html
       - text: "CV"
         href: CV_Rafael_Lopes.pdf
   page-footer:
