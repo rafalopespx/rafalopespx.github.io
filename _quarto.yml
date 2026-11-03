@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "blog/**/*.qmd"
   resources:
     - 'CV_Rafael_Lopes.pdf'
 
