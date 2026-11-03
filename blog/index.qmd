@@ -12,4 +12,4 @@ listing:
   date-format: "MMMM D, YYYY"
 ---
 
-Notes on research, methods, and software.
+Notes on research, methods, software, and any other stuff.
