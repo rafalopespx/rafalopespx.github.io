@@ -11,21 +11,28 @@
     "href": "index.html",
     "title": "Rafael Lopes",
     "section": "",
-    "text": "I’m a computational epidemiologist at Yale University, working on climate change impact into infectious diseases. By training I’m either a physicist (specializing in mathematical and statistical modelling for disease transmission and spread) or environmental and climate epidemiologist; professionally, I’ve worked as a data scientist and barista. I like drawing maps!\nOn this site I keep a list of my CV"
+    "text": "I’m a computational epidemiologist and a postdoctoral associate at Université Libre de Bruxelles (ULB) at the Spatial Epidemiology Lab (SpELL) working on climate change impact into infectious diseases.\nFrom 2023 through 2026, I was postdoctoral associate at Yale University with Nathan Grubgauh, Ted Cohen and Colin Carlson labs.\nBy training I’m either a physicist (specializing in mathematical and statistical modelling for disease transmission and spread) or environmental and climate epidemiologist; professionally, I’ve worked as a data scientist, full stack developer and barista. Outside of work, I like drawing maps and drinking coffee.\nOn this site I keep a list of my CV"
   },
   {
     "objectID": "index.html#bio",
     "href": "index.html#bio",
     "title": "Rafael Lopes",
     "section": "",
-    "text": "I’m a computational epidemiologist at Yale University, working on climate change impact into infectious diseases. By training I’m either a physicist (specializing in mathematical and statistical modelling for disease transmission and spread) or environmental and climate epidemiologist; professionally, I’ve worked as a data scientist and barista. I like drawing maps!\nOn this site I keep a list of my CV"
+    "text": "I’m a computational epidemiologist and a postdoctoral associate at Université Libre de Bruxelles (ULB) at the Spatial Epidemiology Lab (SpELL) working on climate change impact into infectious diseases.\nFrom 2023 through 2026, I was postdoctoral associate at Yale University with Nathan Grubgauh, Ted Cohen and Colin Carlson labs.\nBy training I’m either a physicist (specializing in mathematical and statistical modelling for disease transmission and spread) or environmental and climate epidemiologist; professionally, I’ve worked as a data scientist, full stack developer and barista. Outside of work, I like drawing maps and drinking coffee.\nOn this site I keep a list of my CV"
   },
   {
-    "objectID": "index.html#selected-projects",
-    "href": "index.html#selected-projects",
+    "objectID": "index.html#selected-paper",
+    "href": "index.html#selected-paper",
     "title": "Rafael Lopes",
-    "section": "Selected Projects",
-    "text": "Selected Projects\n\nR Packages\nnowcaster | Nowcasting to delay correction to epidemiological data."
+    "section": "Selected Paper",
+    "text": "Selected Paper\nAlpha and Delta Waves spreading in the US Temperature and Dengue hospitalizations in Brazil"
+  },
+  {
+    "objectID": "index.html#r-packages",
+    "href": "index.html#r-packages",
+    "title": "Rafael Lopes",
+    "section": "R Packages",
+    "text": "R Packages\nnowcaster | Nowcasting to delay correction to epidemiological data.\nPortinariColors | Color palette on Candido Portinari paitings."
   },
   {
     "objectID": "blog/index.html",

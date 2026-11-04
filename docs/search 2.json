@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Open-source tools I have developed or contributed to.\n\nPortinariColors · Author and maintainer · Oct 2026–present (CRAN)\nColor palettes inspired by paintings of Candido Portinari held by the São Paulo Museum of Art (MASP) and by his Guerra (War) and Paz (Peace) panels at the United Nations Headquarters.\nnowcaster · Lead developer · 2022–present\nOpen R package implementing Bayesian hierarchical correction for reporting delay in disease surveillance. Used by Brazil’s Ministry of Health for dengue, chikungunya, Zika, COVID-19, and RSV.\nObservatório COVID-19 BR · Contributor · 2020–2022\nOpen modeling and data platform for the Brazilian COVID-19 response."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rafael Lopes",
+    "section": "",
+    "text": "I’m a computational epidemiologist at Université Libre de Bruxelles (ULB) at the Spatial Epidemiology Lab (SpELL) working on climate change impact into infectious diseases.\nBy training I’m either a physicist (specializing in mathematical and statistical modelling for disease transmission and spread) or environmental and climate epidemiologist; professionally, I’ve worked as a data scientist, full stack developer and barista. Outside of work, I like drawing maps and drinking coffee.\nOn this site I keep a list of my CV"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Rafael Lopes",
+    "section": "",
+    "text": "I’m a computational epidemiologist at Université Libre de Bruxelles (ULB) at the Spatial Epidemiology Lab (SpELL) working on climate change impact into infectious diseases.\nBy training I’m either a physicist (specializing in mathematical and statistical modelling for disease transmission and spread) or environmental and climate epidemiologist; professionally, I’ve worked as a data scientist, full stack developer and barista. Outside of work, I like drawing maps and drinking coffee.\nOn this site I keep a list of my CV"
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Rafael Lopes",
+    "section": "Selected Projects",
+    "text": "Selected Projects\n\nR Packages\nnowcaster | Nowcasting to delay correction to epidemiological data."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Notes on research, methods, software, and any other stuff.\n\n\n\n\n\n\n\n\n\nWelcome\n\n\n\nmeta\n\n\n\nWhat this blog will cover.\n\n\n\n\n\nNovember 3, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to the blog. I will use it for notes on my research in epidemic modelling, nowcasting, and climate attribution, and for updates on the R packages I maintain. And sometimes thought outside all of this."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "* first, co-first or senior author; ° corresponding author. Publications up to 2022 appear under the name R. L. P. da Silva."
+  },
+  {
+    "objectID": "publications.html#preprints-and-manuscripts-under-review",
+    "href": "publications.html#preprints-and-manuscripts-under-review",
+    "title": "Publications",
+    "section": "Preprints and manuscripts under review",
+    "text": "Preprints and manuscripts under review\n\nVariations in annual dengue intensities are explained by temperature anomalies\nPorzucek AJ, Lopes R*, Chew YT, Li K, Brady OJ, Warren JL, Carlson CJ, Weinberger DM, Grubaugh ND\nmedRxiv; under review at Proceedings of the National Academy of Sciences (2025)\nFrequent introductions and climate suitability drive increasing dengue risk in Florida\nTaylor-Salmon E, Chew YT, Lopes R*, Locksmith T, Kopp E, Vergara J, Davis A, Mitchell M, Colarusso P, Schmedes S, Mock V, Scott B, Zimler R, Vasquez C, Moreno M, Paul LM, Michael SF, Breban MI, Vogels CBF, Warren JL, Carlson CJ, Stanek D, Heberlein L, Hill V, Morrison A, Grubaugh ND\nmedRxiv; under review at Nature Communications (2026)\nPhylodynamic analysis reveals asymmetric and accelerating global spread of dengue virus\nHill V, Dudas G, Ji X, Huits R, Hamer DH, Joshi HK, Porzucek AJ, Lopes R, Robertson H, Whittaker CF, et al.\nbioRxiv, September 2026\nTracking two decades of global dengue virus lineage dynamics\nGood S, Porzucek AJ, Chew YT, Lopes R*, Rankin N, Carrington CVF, Ooi EE, Brito AF, Hill V, Grubaugh ND\nbioRxiv, October 2026"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "Peer-reviewed articles",
+    "text": "Peer-reviewed articles\n\nEvolutionary history of Jamestown Canyon virus reveals complex multi-vector ecology\nBourgikos E, Dellicour S, Lemey P, Feriancek NM, Bransfield AB, Breban MI, Misencik MJ, Petruff TA, Shepard JJ, Andreadis TG, Anderson JF, Ngo KA, Maffei JG, Dupuis AP, Rich SM, Xu G, Sakolsky G, Price KJ, Metzger ML, Suchard MA, Lopes R, Gámbaro F, Carlson CJ, Baele G, Ciota AT, Vogels CBF, Hill V, Armstrong PM, Grubaugh ND\nCurrent Biology 36(9): 2343–2356 (2026)\nQuantifying the spatiotemporal dynamics of the first two epidemic waves of SARS-CoV-2 infections in the United States\nLopes R*°, Lan Y, Chitwood MH, Klaassen F, Salomon JA, Menzies NA, Warren JL, Grubaugh ND, Cohen T, Swartwood NA\nPLOS Computational Biology 22(3): e1013983 (2026)\nNational- and state-level SARS-CoV-2 immunity trends from January 2020 to December 2023: a mathematical modeling analysis\nKlaassen F, Swartwood NA, Chitwood MH, Lopes R, Haraguchi M, Salomon JA, Cohen T, Menzies NA\nJournal of Infectious Diseases 233(4): 714–724 (2026)\nEstimating the quality-adjusted life-year loss due to fatal and nonfatal COVID-19 outcomes across US states and counties, July 2020 to December 2022\nMikdashi F, Murray-Watson RE, Lopes R, Bilinski A, Yaesoubi R\nMDM Policy & Practice 11(2): 23814683261461551 (2026)\nLarge-scale genomic analysis of SARS-CoV-2 Omicron BA.5 emergence in the United States\nPham K, Chaguza C, Lopes R, Cohen T, Taylor-Salmon E, Wilkinson M, Katebi V, Grubaugh ND, Hill V\nEmerging Infectious Diseases, supplemental issue: Advances in Pathogen Genomics for Infectious Disease Surveillance, Control and Prevention (2025)\nIntegrated analysis of the 2022 SARS-CoV-2 Omicron lineage replacement dynamics in Connecticut, US\nChen NFG, Pham K, Chaguza C, Lopes R, Klaassen F, Kalinich CC, Yale SARS-CoV-2 Genomic Surveillance Initiative, Kerantzas N, Pandya S, Ferguson D, et al.\nViruses 17(7): 1020 (2025)\nEscalating combinations of enhanced infectivity and immune escape define SARS-CoV-2 Omicron lineage replacement\nChen NFG, Pham K, Chaguza C, Lopes R, Klaassen F, Weinberger DM, Pitzer VE, Warren JL, Grubaugh ND, Hahn AM\nViruses (2025)\nOn the verge: outbreak risk after two years of record-breaking dengue epidemics in Brazil\nLopes R*°, Bastos LS\nThe Lancet Regional Health – Americas 45 (2025)\nCombining genomic data and infection estimates to characterize the complex dynamics of SARS-CoV-2 Omicron variants in the United States\nLopes R*°, Pham K, Klaassen F, Chitwood MH, Hahn AM, Redmond S, et al.\nCell Reports 43(7) (2024)\nAmbient temperature and dengue hospitalization in Brazil: a 10-year period case time series analysis\nLopes R*°, Basagaña X, Bastos LSL, Bozza FA, Ranzani OT\nEnvironmental Epidemiology 9(1): e360 (2025)\nRisk factors for long coronavirus disease 2019 (long COVID) among healthcare personnel, Brazil, 2020–2022\nMarra AR, Sampaio VS, Ozahata MC, Lopes R, Brito AF, Bragatte M, Kalil J, Miraglia JL, Malheiro DT, Guozhang Y, et al.\nInfection Control & Hospital Epidemiology 44(12): 1972–1978 (2023)\nTen quick tips for harnessing the power of ChatGPT in computational biology\nLubiana T, Lopes R, Medeiros P, Silva JC, Goncalves ANA, Maracaja-Coutinho V, Nakaya HI\nPLoS Computational Biology 19(8): e1011319 (2023)\nThinking out of the box: revisiting health surveillance based on medical records\nSampaio VS, Lopes R, Ozahata MC, Nakaya HI, Sousa E, Araujo JD, Bragatte MAS, Brito AF, Grespan RMZ, Capuani MLD, et al.\nAntimicrobial Stewardship & Healthcare Epidemiology 3(1): e185 (2023)\nEstimating the impact of implementation and timing of the COVID-19 vaccination program in Brazil: a counterfactual analysis\nFerreira LS, Marquitti FMD, da Silva RLP, Borges ME, da Costa Gomes MF, Cruz OG, Kraenkel RA, Coutinho RM, Prado PI, Bastos LS\nThe Lancet Regional Health – Americas 17 (2023)\nArea-level inequalities in COVID-19 outcomes in Brazil in 2020 and 2021: an analysis of 1,894,165 severe COVID-19 cases\nBoing AF, Boing AC, Veras MA, de Lacerda JT, da Silva RLP, Barbato PR, Fabrin C, Subramanian SV\nPreventive Medicine 164 (2022)\nModel-based estimation of transmissibility and reinfection of SARS-CoV-2 P.1 variant\nCoutinho RM, Marquitti FMD, Ferreira LS, Borges ME, da Silva RLP, Canton O, Portella TP, Poloni S, Franco C, Plucinski MM, Lessa FC\nCommunications Medicine 1(1) (2022)\nAssessing the best time interval between doses in a two-dose vaccination regimen to reduce the number of deaths in an ongoing epidemic of SARS-CoV-2\nSouto Ferreira L, Canton O, da Silva RLP, Poloni S, Sudbrack V, Borges ME, Franco C, Marquitti FMD, de Moraes JC, Veras MADSM, Kraenkel RA\nPLOS Computational Biology 18(3): e1009978 (2022)\nBrazil in the face of new SARS-CoV-2 variants: emergencies and challenges in public health\nMarquitti FMD, Coutinho RM, Ferreira LS, Borges ME, Portella TP, da Silva RLP, Canton O, Poloni S, Franco C, Coelho V, Barberia L\nRevista Brasileira de Epidemiologia 24 (2021)"
+  },
+  {
+    "objectID": "publications.html#conference-abstracts",
+    "href": "publications.html#conference-abstracts",
+    "title": "Publications",
+    "section": "Conference abstracts",
+    "text": "Conference abstracts\n\nTrends in United States long-COVID incidence and prevalence over 2020–2023: a Bayesian modeling analysis\nSwartwood NA, Klaassen F, Chitwood MH, Lopes R, Salomon JA, Cohen T, Menzies N\nMedical Decision Making 45(7) [Conference abstract] (2025)"
+  }
+]

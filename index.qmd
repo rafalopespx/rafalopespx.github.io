@@ -20,19 +20,29 @@ comments: false
 
 ## Bio
 
-I’m a computational epidemiologist at Yale University, working on climate change impact into infectious diseases.
+I’m a computational epidemiologist and a postdoctoral associate at Université Libre de Bruxelles (ULB) at the Spatial Epidemiology Lab [(SpELL)](https://spell.ulb.be/) 
+working on climate change impact into infectious diseases. 
+
+From 2023 through 2026, I was postdoctoral associate at Yale University with [Nathan Grubgauh](grubaughlab.com/tean), Ted Cohen and [Colin Carlson](https://www.carlsonlab.bio/team) labs.
+
 By training I'm either a physicist (specializing in mathematical and statistical modelling for disease transmission and spread) or 
-environmental and climate epidemiologist; professionally, I've worked
-as a data scientist and barista. I like drawing [maps](south_ameria_cell_towers_no_borders_no_caption_no_title.png)!
+environmental and climate epidemiologist; professionally, I've worked as a data scientist, full stack developer and barista. 
+Outside of work, I like drawing [maps](south_ameria_cell_towers_no_borders_no_caption_no_title.png) and drinking coffee.
 
 On this site I keep a list of [my CV](CV_Rafael_Lopes.pdf)
 
 <p></p>
 
-## Selected Projects
+## Selected Paper
 
-#### R Packages
+[Omicron Variants in the US](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00780-0)
+[Alpha and Delta Waves spreading in the US](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013983)
+[Temperature and Dengue hospitalizations in Brazil](https://www.ovid.com/jnls/environepidem/fulltext/10.1097/ee9.0000000000000360~ambient-temperature-and-dengue-hospitalization-in-brazil-a)
 
-**[nowcaster](https://github.com/covid19br/nowcaster)** | Nowcasting to delay correction to epidemiological data.
+## R Packages
+
+**[nowcaster](https://covid19br.github.io/nowcaster)** | Nowcasting to delay correction to epidemiological data.
+
+**[PortinariColors](https://rafalopespx.github.io/PortinariColors)** | Color palette on Candido Portinari paitings.
 
 <link rel="me" href="https://www.bsky.app/rafalpx">
